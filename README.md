@@ -1,3 +1,3 @@
 # SPAMTIFY
-Music Player and Music Playlist Manager
+Music Player and Music Playlist Manager,
 inspired from Spotify
